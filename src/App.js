@@ -1,3 +1,4 @@
+import Assesments from "./Assesments";
 import Attendance from "./Attendance";
 import Classes from "./Classes";
 import Placements from "./Placements";
@@ -8,6 +9,8 @@ return(
     Kodnest App
     <Classes/>
     <Attendance/>
+    <Placements/>
+    <Assesments/>
     </h1>
   </>
   
